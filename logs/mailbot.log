@@ -1,0 +1,651 @@
+2025-05-02T18:46:41.764Z - INFO - Connected to IMAP server
+2025-05-02T18:46:42.476Z - INFO - Found 1430 unread email IDs
+2025-05-02T18:46:44.510Z - INFO - Marked email from gs.batu52@icloud.com (UID: 12488) as read
+2025-05-02T18:46:47.349Z - INFO - Marked email from mineschmidt1988@gmail.com (UID: 12489) as read
+2025-05-02T18:46:48.723Z - INFO - Marked email from patrickluboch92@gmail.com (UID: 12490) as read
+2025-05-02T18:46:50.874Z - INFO - Marked email from aranibrahim111@icloud.com (UID: 12491) as read
+2025-05-02T18:46:52.793Z - INFO - Marked email from aranibrahim111@icloud.com (UID: 12492) as read
+2025-05-02T18:46:55.174Z - INFO - Marked email from mailer@shopify.com (UID: 12493) as read
+2025-05-02T18:46:57.267Z - INFO - Marked email from d.nemeth2403@gmail.com (UID: 12494) as read
+2025-05-02T18:47:00.499Z - INFO - Marked email from mailer@shopify.com (UID: 12495) as read
+2025-05-02T18:47:03.469Z - INFO - Marked email from mailer@shopify.com (UID: 12496) as read
+2025-05-02T18:47:04.987Z - INFO - Marked email from vik88@web.de (UID: 12497) as read
+2025-05-02T18:47:07.867Z - INFO - Marked email from noreply-de@klarna.de (UID: 12498) as read
+2025-05-02T18:47:09.810Z - INFO - Marked email from falkenberg1@icloud.com (UID: 12499) as read
+2025-05-02T18:47:12.890Z - INFO - Marked email from aurelianicoletta@web.de (UID: 12500) as read
+2025-05-02T18:47:15.355Z - INFO - Marked email from dionis.ferizaj1@icloud.com (UID: 12501) as read
+2025-05-02T18:47:17.374Z - INFO - Marked email from rachdi.fatima@web.de (UID: 12502) as read
+2025-05-02T18:47:19.340Z - INFO - Marked email from mailer@shopify.com (UID: 12503) as read
+2025-05-02T18:47:23.128Z - INFO - Marked email from noreply-de@klarna.de (UID: 12504) as read
+2025-05-02T18:47:25.327Z - INFO - Marked email from mailer@shopify.com (UID: 12505) as read
+2025-05-02T18:47:27.195Z - INFO - Marked email from mariamrudolph05@gmail.com (UID: 12506) as read
+2025-05-02T18:47:28.556Z - INFO - Marked email from diallonadine@icloud.com (UID: 12507) as read
+2025-05-02T18:47:31.629Z - INFO - Marked email from noreply-de@klarna.de (UID: 12508) as read
+2025-05-02T18:47:35.520Z - INFO - Marked email from noreply-de@klarna.de (UID: 12509) as read
+2025-05-02T18:47:37.431Z - INFO - Marked email from mailer@shopify.com (UID: 12510) as read
+2025-05-02T18:47:40.621Z - INFO - Marked email from noreply-de@klarna.de (UID: 12511) as read
+2025-05-02T18:47:42.379Z - INFO - Marked email from younes.elkaddouri@yahoo.com (UID: 12512) as read
+2025-05-02T18:47:44.918Z - INFO - Marked email from mailer@shopify.com (UID: 12513) as read
+2025-05-02T18:47:48.524Z - INFO - Marked email from noreply-de@klarna.de (UID: 12514) as read
+2025-05-02T18:47:50.060Z - INFO - Marked email from jerrob07@icloud.com (UID: 12515) as read
+2025-05-02T18:47:53.337Z - INFO - Marked email from noreply-de@klarna.de (UID: 12516) as read
+2025-05-02T18:47:55.793Z - INFO - Marked email from noreply-de@klarna.de (UID: 12517) as read
+2025-05-02T18:48:00.504Z - INFO - Marked email from noreply-de@klarna.de (UID: 12518) as read
+2025-05-02T18:48:05.301Z - INFO - Marked email from noreply-de@klarna.de (UID: 12519) as read
+2025-05-02T18:48:17.404Z - INFO - Marked email from recker.hannah@yahoo.de (UID: 12520) as read
+2025-05-02T18:51:03.698Z - INFO - Marked email from taminawulf@gmail.com (UID: 12521) as read
+2025-05-02T18:53:54.601Z - INFO - Marked email from taminawulf@gmail.com (UID: 12522) as read
+2025-05-02T18:53:56.291Z - INFO - Marked email from recker.hannah@yahoo.de (UID: 12523) as read
+2025-05-02T18:53:59.514Z - INFO - Marked email from noreply-de@klarna.de (UID: 12524) as read
+2025-05-02T18:54:01.462Z - INFO - Marked email from salm95009@gmail.com (UID: 12525) as read
+2025-05-02T18:54:05.249Z - INFO - Marked email from noreply-de@klarna.de (UID: 12526) as read
+2025-05-02T18:54:08.219Z - INFO - Marked email from noreply-de@klarna.de (UID: 12527) as read
+2025-05-02T18:54:10.062Z - INFO - Marked email from janice_potthoff@icloud.com (UID: 12528) as read
+2025-05-02T18:54:12.928Z - INFO - Marked email from mailer@shopify.com (UID: 12529) as read
+2025-05-02T18:54:14.671Z - INFO - Marked email from mailer@shopify.com (UID: 12530) as read
+2025-05-02T18:54:16.951Z - INFO - Marked email from mailer@shopify.com (UID: 12531) as read
+2025-05-02T18:54:21.122Z - INFO - Marked email from noreply-de@klarna.de (UID: 12532) as read
+2025-05-02T18:54:23.477Z - INFO - Marked email from mailer@shopify.com (UID: 12533) as read
+2025-05-02T18:54:25.934Z - INFO - Marked email from Yaseminkan@outlook.de (UID: 12534) as read
+2025-05-02T18:54:29.826Z - INFO - Marked email from seref@online.de (UID: 12535) as read
+2025-05-02T18:54:32.693Z - INFO - Marked email from mailer@shopify.com (UID: 12536) as read
+2025-05-02T18:54:35.499Z - INFO - Marked email from mdaher01.md@gmail.com (UID: 12537) as read
+2025-05-02T18:54:37.404Z - INFO - Marked email from g.markus@gmx.at (UID: 12538) as read
+2025-05-02T18:54:39.452Z - INFO - Marked email from mailer@shopify.com (UID: 12539) as read
+2025-05-02T18:54:41.602Z - INFO - Marked email from gebre99@web.de (UID: 12540) as read
+2025-05-02T18:54:44.571Z - INFO - Marked email from taminawulf@gmail.com (UID: 12541) as read
+2025-05-02T18:54:47.541Z - INFO - Marked email from zaro.ayo@icloud.com (UID: 12542) as read
+2025-05-02T18:54:49.794Z - INFO - Marked email from nathi.wuerzl@gmail.com (UID: 12543) as read
+2025-05-02T18:54:59.522Z - INFO - Marked email from moetant@googlemail.com (UID: 12544) as read
+2025-05-02T18:55:01.738Z - INFO - Marked email from mbozic890@gmail.com (UID: 12545) as read
+2025-05-02T18:55:05.051Z - INFO - Marked email from mailer@shopify.com (UID: 12546) as read
+2025-05-02T18:55:07.713Z - INFO - Marked email from noreply-de@klarna.de (UID: 12547) as read
+2025-05-02T18:55:10.928Z - INFO - Marked email from noreply-de@klarna.de (UID: 12548) as read
+2025-05-02T18:55:12.629Z - INFO - Marked email from sihamkhalaf522@gmail.com (UID: 12549) as read
+2025-05-02T18:55:14.850Z - INFO - Marked email from selcuk.parlapan@gmx.at (UID: 12550) as read
+2025-05-02T18:55:16.171Z - INFO - Marked email from ludwigivonne36@gmail.com (UID: 12551) as read
+2025-05-02T18:55:18.055Z - INFO - Marked email from mailer@shopify.com (UID: 12552) as read
+2025-05-02T18:55:20.411Z - INFO - Marked email from mailer@shopify.com (UID: 12553) as read
+2025-05-02T18:55:22.560Z - INFO - Marked email from romanerbes3@gmail.com (UID: 12554) as read
+2025-05-02T18:55:24.812Z - INFO - Marked email from karimhawik@gmail.com (UID: 12555) as read
+2025-05-02T18:55:26.656Z - INFO - Marked email from koppi30@t-online.de (UID: 12556) as read
+2025-05-02T18:55:28.918Z - INFO - Marked email from mailer@shopify.com (UID: 12557) as read
+2025-05-02T18:55:31.265Z - INFO - Marked email from ardian-sejdiu@hotmail.com (UID: 12558) as read
+2025-05-02T18:55:33.823Z - INFO - Marked email from dankurtishaj@gmail.com (UID: 12559) as read
+2025-05-02T18:55:36.897Z - INFO - Marked email from noreply-de@klarna.de (UID: 12560) as read
+2025-05-02T18:55:39.969Z - INFO - Marked email from mailer@shopify.com (UID: 12561) as read
+2025-05-02T18:55:45.729Z - INFO - Marked email from tushaserano@gmail.com (UID: 12562) as read
+2025-05-02T18:55:56.393Z - INFO - Marked email from kamihyn2005@gmail.com (UID: 12563) as read
+2025-05-02T18:55:58.383Z - INFO - Marked email from mailer@shopify.com (UID: 12564) as read
+2025-05-02T18:56:00.280Z - INFO - Marked email from adelinadema7@gmail.com (UID: 12565) as read
+2025-05-02T18:56:02.805Z - INFO - Marked email from mailer@shopify.com (UID: 12566) as read
+2025-05-02T18:56:16.841Z - INFO - Marked email from adelinadema7@gmail.com (UID: 12567) as read
+2025-05-02T18:56:18.772Z - INFO - Marked email from anjaschulze84@web.de (UID: 12568) as read
+2025-05-02T18:56:22.465Z - INFO - Marked email from noreply-de@klarna.de (UID: 12569) as read
+2025-05-02T18:56:25.416Z - INFO - Marked email from noreply-de@klarna.de (UID: 12570) as read
+2025-05-02T18:56:26.944Z - INFO - Marked email from yipek3866@gmail.com (UID: 12571) as read
+2025-05-02T18:56:30.116Z - INFO - Marked email from muhametb294@gmail.com (UID: 12572) as read
+2025-05-02T18:56:32.026Z - INFO - Marked email from khodermasri18@icloud.com (UID: 12573) as read
+2025-05-02T18:56:34.770Z - INFO - Marked email from fatoschum@hotmail.de (UID: 12574) as read
+2025-05-02T18:56:36.492Z - INFO - Marked email from kingyeboaa751@gmail.com (UID: 12575) as read
+2025-05-02T18:56:37.797Z - INFO - Marked email from joelyeboaabk@gmail.com (UID: 12576) as read
+2025-05-02T19:00:33.734Z - INFO - Marked email from shayennehering@gmx.de (UID: 12577) as read
+2025-05-02T19:00:35.492Z - INFO - Marked email from ie.eileen@web.de (UID: 12578) as read
+2025-05-02T19:00:37.029Z - INFO - Marked email from seref@online.de (UID: 12579) as read
+2025-05-02T19:00:40.203Z - INFO - Marked email from fionabrajer@gmail.com (UID: 12580) as read
+2025-05-02T19:00:42.053Z - INFO - Marked email from floetenpoldi@unitybox.de (UID: 12581) as read
+2025-05-02T19:00:44.168Z - INFO - Marked email from mehmetiajete@icloud.com (UID: 12582) as read
+2025-05-02T19:00:46.077Z - INFO - Marked email from mailer@shopify.com (UID: 12583) as read
+2025-05-02T19:00:47.986Z - INFO - Marked email from musabg5505@gmail.com (UID: 12584) as read
+2025-05-02T19:00:50.033Z - INFO - Marked email from Taner4545@outlook.de (UID: 12585) as read
+2025-05-02T19:03:11.218Z - INFO - Marked email from julixd221@gmail.com (UID: 12586) as read
+2025-05-02T19:03:42.096Z - INFO - Marked email from noreply-de@klarna.de (UID: 12587) as read
+2025-05-02T19:03:42.096Z - INFO - Processed batch of 100 emails (total processed: 100)
+2025-05-02T19:04:02.516Z - INFO - Marked email from J.Ahlswede@gmx.de (UID: 12588) as read
+2025-05-02T19:04:04.989Z - INFO - Marked email from mailer@shopify.com (UID: 12589) as read
+2025-05-02T19:04:53.754Z - INFO - Starting mail bot cycle
+2025-05-02T19:04:53.758Z - INFO - Configuration loaded successfully
+2025-05-02T19:04:53.760Z - INFO - Initialized OpenAI client
+2025-05-02T19:05:05.120Z - ERROR - IMAP connection error: Timed out while authenticating with server
+2025-05-02T19:05:05.122Z - ERROR - Main loop error: Timed out while authenticating with server
+2025-05-02T19:05:05.123Z - ERROR - Bot crashed: Timed out while authenticating with server
+2025-05-02T19:05:20.125Z - INFO - Starting mail bot cycle
+2025-05-02T19:05:20.131Z - INFO - Configuration loaded successfully
+2025-05-02T19:05:20.133Z - INFO - Initialized OpenAI client
+2025-05-02T19:05:31.772Z - ERROR - IMAP connection error: Timed out while authenticating with server
+2025-05-02T19:05:31.776Z - ERROR - Main loop error: Timed out while authenticating with server
+2025-05-02T19:05:31.777Z - ERROR - Bot crashed: Timed out while authenticating with server
+2025-05-02T19:06:20.016Z - INFO - Starting mail bot cycle
+2025-05-02T19:06:20.021Z - INFO - Configuration loaded successfully
+2025-05-02T19:06:20.023Z - INFO - Initialized OpenAI client
+2025-05-02T19:06:30.099Z - ERROR - IMAP connection error: Timed out while connecting to server
+2025-05-02T19:06:30.103Z - ERROR - Main loop error: Timed out while connecting to server
+2025-05-02T19:06:30.104Z - ERROR - Bot crashed: Timed out while connecting to server
+2025-05-02T19:09:51.351Z - INFO - Starting mail bot cycle
+2025-05-02T19:09:51.356Z - INFO - Configuration loaded successfully
+2025-05-02T19:09:51.358Z - INFO - Initialized OpenAI client
+2025-05-02T19:10:01.383Z - ERROR - IMAP connection timed out after 10 seconds
+2025-05-02T19:10:01.385Z - ERROR - Main loop error: IMAP connection timed out after 10 seconds
+2025-05-02T19:10:01.386Z - ERROR - Bot crashed: IMAP connection timed out after 10 seconds
+2025-05-02T19:10:01.431Z - ERROR - IMAP connection error: Timed out while connecting to server
+2025-05-02T19:12:58.553Z - INFO - Starting mail bot cycle
+2025-05-02T19:12:58.559Z - INFO - Configuration loaded successfully
+2025-05-02T19:12:58.561Z - INFO - Initialized OpenAI client
+2025-05-02T19:13:03.030Z - INFO - Connected to IMAP server
+2025-05-02T19:13:03.034Z - INFO - Fetching emails received after 2025-05-02T19:12:03.033Z
+2025-05-02T19:13:04.063Z - INFO - Found 1329 unread email IDs
+2025-05-02T19:13:04.892Z - INFO - Fetched email with UID 12590
+2025-05-02T19:13:05.044Z - INFO - Skipped email from mailer@shopify.com (Date: 2025-04-28T11:24:19.000Z, too old)
+2025-05-02T19:13:05.464Z - INFO - Fetched email with UID 12591
+2025-05-02T19:13:05.477Z - INFO - Skipped email from jj.steen@icloud.com (Date: 2025-04-28T11:27:00.000Z, too old)
+2025-05-02T19:13:07.116Z - INFO - Fetched email with UID 12592
+2025-05-02T19:13:07.169Z - INFO - Skipped email from noreply-de@klarna.de (Date: 2025-04-28T11:28:04.000Z, too old)
+2025-05-02T19:13:08.024Z - INFO - Fetched email with UID 12593
+2025-05-02T19:13:08.127Z - INFO - Skipped email from koppi30@t-online.de (Date: 2025-04-28T11:31:40.000Z, too old)
+2025-05-02T19:13:09.080Z - INFO - Fetched email with UID 12594
+2025-05-02T19:13:09.101Z - INFO - Skipped email from Khamlin0408@hotmail.com (Date: 2025-04-28T11:34:54.000Z, too old)
+2025-05-02T19:13:09.969Z - INFO - Fetched email with UID 12595
+2025-05-02T19:13:09.974Z - INFO - Skipped email from siarhassanpour10@yahoo.com (Date: 2025-04-28T11:34:53.000Z, too old)
+2025-05-02T19:13:11.626Z - INFO - Fetched email with UID 12596
+2025-05-02T19:13:11.646Z - INFO - Skipped email from noreply-de@klarna.de (Date: 2025-04-28T11:35:33.000Z, too old)
+2025-05-02T19:13:13.255Z - INFO - Fetched email with UID 12597
+2025-05-02T19:13:13.343Z - INFO - Skipped email from Swetlana_Eigenseer@gmx.de (Date: 2025-04-28T11:36:25.000Z, too old)
+2025-05-02T19:13:14.759Z - INFO - Fetched email with UID 12598
+2025-05-02T19:13:14.785Z - INFO - Skipped email from noreply-de@klarna.de (Date: 2025-04-28T11:38:54.000Z, too old)
+2025-05-02T19:13:16.782Z - INFO - Fetched email with UID 12599
+2025-05-02T19:13:16.837Z - INFO - Skipped email from yaqubwtd12@gmail.com (Date: 2025-04-28T11:39:17.000Z, too old)
+2025-05-02T19:13:17.519Z - INFO - Fetched email with UID 12600
+2025-05-02T19:13:17.538Z - INFO - Skipped email from andrianaclemens@gmail.com (Date: 2025-04-28T11:47:29.000Z, too old)
+2025-05-02T19:13:18.798Z - INFO - Fetched email with UID 12601
+2025-05-02T19:13:18.818Z - INFO - Skipped email from noreply-de@klarna.de (Date: 2025-04-28T11:48:08.000Z, too old)
+2025-05-02T19:13:19.739Z - INFO - Fetched email with UID 12602
+2025-05-02T19:13:19.744Z - INFO - Skipped email from bertramsandy05@icloud.com (Date: 2025-04-28T11:49:25.000Z, too old)
+2025-05-02T19:13:20.741Z - INFO - Fetched email with UID 12603
+2025-05-02T19:13:20.745Z - INFO - Skipped email from bertramsandy05@icloud.com (Date: 2025-04-28T11:49:25.000Z, too old)
+2025-05-02T19:13:21.770Z - INFO - Fetched email with UID 12604
+2025-05-02T19:13:21.782Z - INFO - Skipped email from safaarashwan1981@gmail.com (Date: 2025-04-28T11:49:40.000Z, too old)
+2025-05-02T19:13:34.049Z - INFO - Fetched email with UID 12605
+2025-05-02T19:13:34.232Z - INFO - Skipped email from melikeoezcan18@gmail.com (Date: 2025-04-28T11:50:31.000Z, too old)
+2025-05-02T19:13:36.096Z - INFO - Fetched email with UID 12606
+2025-05-02T19:13:36.290Z - INFO - Skipped email from kleyleinklein7@gmail.com (Date: 2025-04-28T11:51:50.000Z, too old)
+2025-05-02T19:13:36.904Z - INFO - Fetched email with UID 12607
+2025-05-02T19:13:36.909Z - INFO - Skipped email from mustafa.belaini@gmail.com (Date: 2025-04-28T11:54:34.000Z, too old)
+2025-05-02T19:13:39.237Z - INFO - Fetched email with UID 12608
+2025-05-02T19:13:39.386Z - INFO - Skipped email from kleyleinklein7@gmail.com (Date: 2025-04-28T11:59:38.000Z, too old)
+2025-05-02T19:13:40.902Z - INFO - Fetched email with UID 12609
+2025-05-02T19:13:40.919Z - INFO - Skipped email from noreply-de@klarna.de (Date: 2025-04-28T11:59:53.000Z, too old)
+2025-05-02T19:13:41.755Z - INFO - Fetched email with UID 12610
+2025-05-02T19:13:41.788Z - INFO - Skipped email from mailer@shopify.com (Date: 2025-04-28T12:01:18.000Z, too old)
+2025-05-02T19:13:44.588Z - INFO - Fetched email with UID 12611
+2025-05-02T19:13:44.681Z - INFO - Skipped email from s_silvia@outlook.de (Date: 2025-04-28T12:01:23.000Z, too old)
+2025-05-02T19:13:47.453Z - INFO - Fetched email with UID 12612
+2025-05-02T19:13:47.459Z - INFO - Skipped email from noreply-de@klarna.de (Date: 2025-04-28T12:03:07.000Z, too old)
+2025-05-02T19:13:48.720Z - INFO - Fetched email with UID 12613
+2025-05-02T19:13:48.737Z - INFO - Skipped email from mailer@shopify.com (Date: 2025-04-28T12:05:05.000Z, too old)
+2025-05-02T19:13:49.639Z - INFO - Fetched email with UID 12614
+2025-05-02T19:13:49.647Z - INFO - Skipped email from kalmouamalak7@gmail.com (Date: 2025-04-28T12:07:54.000Z, too old)
+2025-05-02T19:13:50.699Z - INFO - Fetched email with UID 12615
+2025-05-02T19:13:50.710Z - INFO - Skipped email from mailer@shopify.com (Date: 2025-04-28T12:09:59.000Z, too old)
+2025-05-02T19:13:53.012Z - INFO - Fetched email with UID 12616
+2025-05-02T19:13:53.028Z - INFO - Skipped email from noreply-de@klarna.de (Date: 2025-04-28T12:10:46.000Z, too old)
+2025-05-02T19:14:08.965Z - INFO - Fetched email with UID 12617
+2025-05-02T19:14:09.050Z - INFO - Skipped email from mohammed20alobed1@gmail.com (Date: 2025-04-28T12:14:35.000Z, too old)
+2025-05-02T19:14:12.863Z - INFO - Fetched email with UID 12618
+2025-05-02T19:14:12.870Z - INFO - Skipped email from noreply-de@klarna.de (Date: 2025-04-28T12:16:28.000Z, too old)
+2025-05-02T19:14:15.395Z - INFO - Fetched email with UID 12619
+2025-05-02T19:14:15.496Z - INFO - Skipped email from eugenia.sulzbach@web.de (Date: 2025-04-28T12:16:37.000Z, too old)
+2025-05-02T19:14:16.023Z - INFO - Fetched email with UID 12620
+2025-05-02T19:14:16.030Z - INFO - Skipped email from mohammednagom@icloud.com (Date: 2025-04-28T12:24:14.000Z, too old)
+2025-05-02T19:14:16.846Z - INFO - Fetched email with UID 12621
+2025-05-02T19:14:16.852Z - INFO - Skipped email from berchtold-laura@hotmail.com (Date: 2025-04-28T12:25:08.000Z, too old)
+2025-05-02T19:14:17.667Z - INFO - Fetched email with UID 12622
+2025-05-02T19:14:17.669Z - INFO - Skipped email from mohammednagom@icloud.com (Date: 2025-04-28T12:27:24.000Z, too old)
+2025-05-02T19:14:22.018Z - INFO - Fetched email with UID 12623
+2025-05-02T19:14:22.056Z - INFO - Skipped email from hessoyasmin77@gmail.com (Date: 2025-04-28T12:28:18.000Z, too old)
+2025-05-02T19:14:23.025Z - INFO - Fetched email with UID 12624
+2025-05-02T19:14:23.028Z - INFO - Skipped email from mohammednagom@icloud.com (Date: 2025-04-28T12:28:41.000Z, too old)
+2025-05-02T19:14:26.305Z - INFO - Fetched email with UID 12625
+2025-05-02T19:14:26.312Z - INFO - Skipped email from noreply-de@klarna.de (Date: 2025-04-28T12:32:20.000Z, too old)
+2025-05-02T19:14:27.840Z - INFO - Fetched email with UID 12626
+2025-05-02T19:14:27.855Z - INFO - Skipped email from noreply-de@klarna.de (Date: 2025-04-28T12:32:21.000Z, too old)
+2025-05-02T19:14:30.455Z - INFO - Fetched email with UID 12627
+2025-05-02T19:14:30.470Z - INFO - Skipped email from noreply-de@klarna.de (Date: 2025-04-28T12:36:27.000Z, too old)
+2025-05-02T19:14:32.694Z - INFO - Fetched email with UID 12628
+2025-05-02T19:14:32.704Z - INFO - Skipped email from mailer@shopify.com (Date: 2025-04-28T12:40:15.000Z, too old)
+2025-05-02T19:14:34.415Z - INFO - Fetched email with UID 12629
+2025-05-02T19:14:34.425Z - INFO - Skipped email from mailer@shopify.com (Date: 2025-04-28T12:40:20.000Z, too old)
+2025-05-02T19:14:35.262Z - INFO - Fetched email with UID 12630
+2025-05-02T19:14:35.267Z - INFO - Skipped email from hungaevdeni@gmail.com (Date: 2025-04-28T12:40:58.000Z, too old)
+2025-05-02T19:14:36.702Z - INFO - Fetched email with UID 12631
+2025-05-02T19:14:36.708Z - INFO - Skipped email from mailer@shopify.com (Date: 2025-04-28T12:41:59.000Z, too old)
+2025-05-02T19:19:11.003Z - INFO - Starting mail bot cycle
+2025-05-02T19:19:11.007Z - INFO - Configuration loaded successfully
+2025-05-02T19:19:11.009Z - INFO - Initialized OpenAI client
+2025-05-02T19:19:17.072Z - INFO - Connected to IMAP server
+2025-05-02T19:19:17.075Z - INFO - Fetching emails received after 2025-05-02T19:18:17.075Z
+2025-05-02T19:19:18.099Z - INFO - Found 1332 unread email IDs
+2025-05-02T19:19:19.106Z - INFO - Fetched email with UID 12590
+2025-05-02T19:19:19.355Z - INFO - Skipped email from mailer@shopify.com (Date: 2025-04-28T11:24:19.000Z, too old)
+2025-05-02T19:19:20.284Z - INFO - Fetched email with UID 12591
+2025-05-02T19:19:20.318Z - INFO - Skipped email from jj.steen@icloud.com (Date: 2025-04-28T11:27:00.000Z, too old)
+2025-05-02T19:19:23.121Z - INFO - Fetched email with UID 12592
+2025-05-02T19:19:23.173Z - INFO - Skipped email from noreply-de@klarna.de (Date: 2025-04-28T11:28:04.000Z, too old)
+2025-05-02T19:19:24.352Z - INFO - Fetched email with UID 12593
+2025-05-02T19:19:24.439Z - INFO - Skipped email from koppi30@t-online.de (Date: 2025-04-28T11:31:40.000Z, too old)
+2025-05-02T19:19:26.562Z - INFO - Fetched email with UID 12594
+2025-05-02T19:19:26.583Z - INFO - Skipped email from Khamlin0408@hotmail.com (Date: 2025-04-28T11:34:54.000Z, too old)
+2025-05-02T19:19:28.012Z - INFO - Fetched email with UID 12595
+2025-05-02T19:19:28.024Z - INFO - Skipped email from siarhassanpour10@yahoo.com (Date: 2025-04-28T11:34:53.000Z, too old)
+2025-05-02T19:19:29.591Z - INFO - Fetched email with UID 12596
+2025-05-02T19:19:29.610Z - INFO - Skipped email from noreply-de@klarna.de (Date: 2025-04-28T11:35:33.000Z, too old)
+2025-05-02T19:19:30.388Z - INFO - Fetched email with UID 12597
+2025-05-02T19:19:30.462Z - INFO - Skipped email from Swetlana_Eigenseer@gmx.de (Date: 2025-04-28T11:36:25.000Z, too old)
+2025-05-02T19:19:31.720Z - INFO - Fetched email with UID 12598
+2025-05-02T19:19:31.739Z - INFO - Skipped email from noreply-de@klarna.de (Date: 2025-04-28T11:38:54.000Z, too old)
+2025-05-02T19:19:33.471Z - INFO - Fetched email with UID 12599
+2025-05-02T19:19:33.528Z - INFO - Skipped email from yaqubwtd12@gmail.com (Date: 2025-04-28T11:39:17.000Z, too old)
+2025-05-02T19:19:35.114Z - INFO - Fetched email with UID 12600
+2025-05-02T19:19:35.131Z - INFO - Skipped email from andrianaclemens@gmail.com (Date: 2025-04-28T11:47:29.000Z, too old)
+2025-05-02T19:19:36.434Z - INFO - Fetched email with UID 12601
+2025-05-02T19:19:36.453Z - INFO - Skipped email from noreply-de@klarna.de (Date: 2025-04-28T11:48:08.000Z, too old)
+2025-05-02T19:19:38.474Z - INFO - Fetched email with UID 12602
+2025-05-02T19:19:38.479Z - INFO - Skipped email from bertramsandy05@icloud.com (Date: 2025-04-28T11:49:25.000Z, too old)
+2025-05-02T19:19:39.223Z - INFO - Fetched email with UID 12603
+2025-05-02T19:19:39.227Z - INFO - Skipped email from bertramsandy05@icloud.com (Date: 2025-04-28T11:49:25.000Z, too old)
+2025-05-02T19:19:40.301Z - INFO - Fetched email with UID 12604
+2025-05-02T19:19:40.312Z - INFO - Skipped email from safaarashwan1981@gmail.com (Date: 2025-04-28T11:49:40.000Z, too old)
+2025-05-02T19:20:03.461Z - INFO - Fetched email with UID 12605
+2025-05-02T19:20:03.637Z - INFO - Skipped email from melikeoezcan18@gmail.com (Date: 2025-04-28T11:50:31.000Z, too old)
+2025-05-02T19:20:05.796Z - INFO - Fetched email with UID 12606
+2025-05-02T19:20:06.032Z - INFO - Skipped email from kleyleinklein7@gmail.com (Date: 2025-04-28T11:51:50.000Z, too old)
+2025-05-02T19:20:08.086Z - INFO - Fetched email with UID 12607
+2025-05-02T19:20:08.092Z - INFO - Skipped email from mustafa.belaini@gmail.com (Date: 2025-04-28T11:54:34.000Z, too old)
+2025-05-02T19:20:10.319Z - INFO - Fetched email with UID 12608
+2025-05-02T19:20:10.644Z - INFO - Skipped email from kleyleinklein7@gmail.com (Date: 2025-04-28T11:59:38.000Z, too old)
+2025-05-02T19:20:11.965Z - INFO - Fetched email with UID 12609
+2025-05-02T19:20:11.983Z - INFO - Skipped email from noreply-de@klarna.de (Date: 2025-04-28T11:59:53.000Z, too old)
+2025-05-02T19:20:12.780Z - INFO - Fetched email with UID 12610
+2025-05-02T19:20:12.815Z - INFO - Skipped email from mailer@shopify.com (Date: 2025-04-28T12:01:18.000Z, too old)
+2025-05-02T19:20:14.111Z - INFO - Fetched email with UID 12611
+2025-05-02T19:20:14.207Z - INFO - Skipped email from s_silvia@outlook.de (Date: 2025-04-28T12:01:23.000Z, too old)
+2025-05-02T19:20:15.768Z - INFO - Fetched email with UID 12612
+2025-05-02T19:20:15.785Z - INFO - Skipped email from noreply-de@klarna.de (Date: 2025-04-28T12:03:07.000Z, too old)
+2025-05-02T19:20:17.798Z - INFO - Fetched email with UID 12613
+2025-05-02T19:20:17.807Z - INFO - Skipped email from mailer@shopify.com (Date: 2025-04-28T12:05:05.000Z, too old)
+2025-05-02T19:20:18.820Z - INFO - Fetched email with UID 12614
+2025-05-02T19:20:18.827Z - INFO - Skipped email from kalmouamalak7@gmail.com (Date: 2025-04-28T12:07:54.000Z, too old)
+2025-05-02T19:20:20.254Z - INFO - Fetched email with UID 12615
+2025-05-02T19:20:20.267Z - INFO - Skipped email from mailer@shopify.com (Date: 2025-04-28T12:09:59.000Z, too old)
+2025-05-02T19:20:23.465Z - INFO - Fetched email with UID 12616
+2025-05-02T19:20:23.479Z - INFO - Skipped email from noreply-de@klarna.de (Date: 2025-04-28T12:10:46.000Z, too old)
+2025-05-02T19:20:34.898Z - INFO - Fetched email with UID 12617
+2025-05-02T19:20:34.967Z - INFO - Skipped email from mohammed20alobed1@gmail.com (Date: 2025-04-28T12:14:35.000Z, too old)
+2025-05-02T19:20:37.764Z - INFO - Fetched email with UID 12618
+2025-05-02T19:20:37.778Z - INFO - Skipped email from noreply-de@klarna.de (Date: 2025-04-28T12:16:28.000Z, too old)
+2025-05-02T19:20:40.731Z - INFO - Fetched email with UID 12619
+2025-05-02T19:20:40.841Z - INFO - Skipped email from eugenia.sulzbach@web.de (Date: 2025-04-28T12:16:37.000Z, too old)
+2025-05-02T19:20:42.621Z - INFO - Fetched email with UID 12620
+2025-05-02T19:20:42.627Z - INFO - Skipped email from mohammednagom@icloud.com (Date: 2025-04-28T12:24:14.000Z, too old)
+2025-05-02T19:20:43.403Z - INFO - Fetched email with UID 12621
+2025-05-02T19:20:43.411Z - INFO - Skipped email from berchtold-laura@hotmail.com (Date: 2025-04-28T12:25:08.000Z, too old)
+2025-05-02T19:20:45.248Z - INFO - Fetched email with UID 12622
+2025-05-02T19:20:45.253Z - INFO - Skipped email from mohammednagom@icloud.com (Date: 2025-04-28T12:27:24.000Z, too old)
+2025-05-02T19:20:48.629Z - INFO - Fetched email with UID 12623
+2025-05-02T19:20:48.643Z - INFO - Skipped email from hessoyasmin77@gmail.com (Date: 2025-04-28T12:28:18.000Z, too old)
+2025-05-02T19:20:50.157Z - INFO - Fetched email with UID 12624
+2025-05-02T19:20:50.161Z - INFO - Skipped email from mohammednagom@icloud.com (Date: 2025-04-28T12:28:41.000Z, too old)
+2025-05-02T19:20:54.601Z - INFO - Fetched email with UID 12625
+2025-05-02T19:20:54.619Z - INFO - Skipped email from noreply-de@klarna.de (Date: 2025-04-28T12:32:20.000Z, too old)
+2025-05-02T19:20:56.928Z - INFO - Fetched email with UID 12626
+2025-05-02T19:20:56.943Z - INFO - Skipped email from noreply-de@klarna.de (Date: 2025-04-28T12:32:21.000Z, too old)
+2025-05-02T19:21:02.961Z - INFO - Fetched email with UID 12627
+2025-05-02T19:21:02.975Z - INFO - Skipped email from noreply-de@klarna.de (Date: 2025-04-28T12:36:27.000Z, too old)
+2025-05-02T19:21:05.548Z - INFO - Fetched email with UID 12628
+2025-05-02T19:21:05.552Z - INFO - Skipped email from mailer@shopify.com (Date: 2025-04-28T12:40:15.000Z, too old)
+2025-05-02T19:21:06.742Z - INFO - Fetched email with UID 12629
+2025-05-02T19:21:06.754Z - INFO - Skipped email from mailer@shopify.com (Date: 2025-04-28T12:40:20.000Z, too old)
+2025-05-02T19:21:07.664Z - INFO - Fetched email with UID 12630
+2025-05-02T19:21:07.670Z - INFO - Skipped email from hungaevdeni@gmail.com (Date: 2025-04-28T12:40:58.000Z, too old)
+2025-05-02T19:21:08.897Z - INFO - Fetched email with UID 12631
+2025-05-02T19:21:08.908Z - INFO - Skipped email from mailer@shopify.com (Date: 2025-04-28T12:41:59.000Z, too old)
+2025-05-03T06:03:37.340Z - INFO - Connected to IMAP server
+2025-05-03T06:03:38.055Z - INFO - Found 1313 unread email IDs
+2025-05-03T06:03:39.792Z - INFO - Marked email from noreply-de@klarna.de (UID: 12612) as read
+2025-05-03T06:03:41.942Z - INFO - Marked email from noreply-de@klarna.de (UID: 12616) as read
+2025-05-03T06:03:44.297Z - INFO - Marked email from noreply-de@klarna.de (UID: 12618) as read
+2025-05-03T06:03:45.833Z - INFO - Marked email from noreply-de@klarna.de (UID: 12625) as read
+2025-05-03T06:03:49.039Z - INFO - Marked email from noreply-de@klarna.de (UID: 12626) as read
+2025-05-03T06:03:50.748Z - INFO - Marked email from noreply-de@klarna.de (UID: 12627) as read
+2025-05-03T06:03:52.898Z - INFO - Marked email from noreply-de@klarna.de (UID: 12638) as read
+2025-05-03T06:03:56.584Z - INFO - Marked email from noreply-de@klarna.de (UID: 12641) as read
+2025-05-03T06:03:59.145Z - INFO - Marked email from noreply-de@klarna.de (UID: 12643) as read
+2025-05-03T06:04:01.192Z - INFO - Marked email from noreply-de@klarna.de (UID: 12644) as read
+2025-05-03T06:04:03.035Z - INFO - Marked email from noreply-de@klarna.de (UID: 12650) as read
+2025-05-03T06:04:04.771Z - INFO - Marked email from noreply-de@klarna.de (UID: 12651) as read
+2025-05-03T06:04:05.982Z - INFO - Marked email from noreply-de@klarna.de (UID: 12657) as read
+2025-05-03T06:04:08.310Z - INFO - Marked email from noreply-de@klarna.de (UID: 12659) as read
+2025-05-03T06:04:09.574Z - INFO - Marked email from noreply-de@klarna.de (UID: 12662) as read
+2025-05-03T06:04:11.841Z - INFO - Marked email from noreply-de@klarna.de (UID: 12663) as read
+2025-05-03T06:04:13.960Z - INFO - Marked email from milanierind@gmail.com (UID: 12670) as read
+2025-05-03T06:04:17.166Z - INFO - Marked email from noreply-de@klarna.de (UID: 12671) as read
+2025-05-03T06:04:19.277Z - INFO - Marked email from danielkarout007@gmail.com (UID: 12672) as read
+2025-05-03T06:04:20.955Z - INFO - Marked email from bayindirhavva3@gmail.com (UID: 12673) as read
+2025-05-03T06:04:22.283Z - INFO - Marked email from nonobaker6@gmail.com (UID: 12674) as read
+2025-05-03T06:04:23.617Z - INFO - Marked email from mailer@shopify.com (UID: 12675) as read
+2025-05-03T06:04:25.870Z - INFO - Marked email from mailer@shopify.com (UID: 12676) as read
+2025-05-03T06:04:27.304Z - INFO - Marked email from alessiokarol71@gmail.com (UID: 12677) as read
+2025-05-03T06:04:28.737Z - INFO - Marked email from sophiaelke12@gmail.com (UID: 12678) as read
+2025-05-03T06:04:30.297Z - INFO - Marked email from alikomm681@gmail.com (UID: 12679) as read
+2025-05-03T06:04:31.912Z - INFO - Marked email from ReginaWegert@gmx.de (UID: 12680) as read
+2025-05-03T06:04:33.449Z - INFO - Marked email from lotti.wingert@gmail.com (UID: 12681) as read
+2025-05-03T06:04:34.985Z - INFO - Marked email from valentinahaj002@gmail.com (UID: 12682) as read
+2025-05-03T06:04:36.725Z - INFO - Marked email from miguelcassarino1@gmail.com (UID: 12683) as read
+2025-05-03T06:04:38.157Z - INFO - Marked email from raoal.sadek350@gmail.com (UID: 12684) as read
+2025-05-03T06:04:39.693Z - INFO - Marked email from ebbejada@gmail.com (UID: 12685) as read
+2025-05-03T06:04:42.062Z - INFO - Marked email from nathi.wuerzl@gmail.com (UID: 12686) as read
+2025-05-03T06:04:43.670Z - INFO - Marked email from dianazehra.20@gmail.com (UID: 12687) as read
+2025-05-03T06:04:45.325Z - INFO - Marked email from noreply-de@klarna.de (UID: 12688) as read
+2025-05-03T06:04:46.964Z - INFO - Marked email from dorinalola16@gmail.com (UID: 12689) as read
+2025-05-03T06:04:48.500Z - INFO - Marked email from chris.aggelos06@gmail.com (UID: 12690) as read
+2025-05-03T06:04:51.369Z - INFO - Marked email from emirreisenhofer0@gmail.com (UID: 12691) as read
+2025-05-03T06:04:54.030Z - INFO - Marked email from youneselkaddouri311@gmail.com (UID: 12692) as read
+2025-05-03T06:04:55.873Z - INFO - Marked email from asannn15@gmail.com (UID: 12693) as read
+2025-05-03T06:04:57.511Z - INFO - Marked email from bushrarihawi5@gmail.com (UID: 12694) as read
+2025-05-03T06:04:59.960Z - INFO - Marked email from kianeren6@gmail.com (UID: 12695) as read
+2025-05-03T06:05:02.324Z - INFO - Marked email from sababerfin@gmail.com (UID: 12696) as read
+2025-05-03T06:05:04.475Z - INFO - Marked email from betuel1514@gmail.com (UID: 12697) as read
+2025-05-03T06:05:07.525Z - INFO - Marked email from shamsadinkhalaf87@gmail.com (UID: 12698) as read
+2025-05-03T06:05:09.390Z - INFO - Marked email from ziya.akkoc1965@gmail.com (UID: 12699) as read
+2025-05-03T06:05:10.723Z - INFO - Marked email from jasminjungmann3@gmail.com (UID: 12700) as read
+2025-05-03T06:05:12.257Z - INFO - Marked email from filipcicnoa2007@gmail.com (UID: 12701) as read
+2025-05-03T06:05:14.407Z - INFO - Marked email from koernernagihan@gmail.com (UID: 12702) as read
+2025-05-03T06:05:15.943Z - INFO - Marked email from wajdalmousa@gmail.com (UID: 12703) as read
+2025-05-03T06:05:17.991Z - INFO - Marked email from abduldaum@gmail.com (UID: 12704) as read
+2025-05-03T06:05:20.039Z - INFO - Marked email from selvaerdo61@gmail.com (UID: 12705) as read
+2025-05-03T06:05:21.779Z - INFO - Marked email from rejhan.shazimani2005@gmail.com (UID: 12706) as read
+2025-05-03T06:05:25.159Z - INFO - Marked email from roksanadel@icloud.com (UID: 12707) as read
+2025-05-03T06:05:27.863Z - INFO - Marked email from vincent.s.grandy@gmail.com (UID: 12708) as read
+2025-05-03T06:05:29.547Z - INFO - Marked email from noreply-de@klarna.de (UID: 12709) as read
+2025-05-03T06:05:30.895Z - INFO - Marked email from janjochimde@gmail.com (UID: 12710) as read
+2025-05-03T06:05:36.729Z - INFO - Marked email from jennifer.glade@gmail.com (UID: 12711) as read
+2025-05-03T06:05:38.125Z - INFO - Marked email from camkertencan@gmail.com (UID: 12712) as read
+2025-05-03T06:05:39.597Z - INFO - Marked email from aadlouni17@gmail.com (UID: 12713) as read
+2025-05-03T06:05:40.757Z - INFO - Marked email from mi1808@gmx.de (UID: 12714) as read
+2025-05-03T06:05:41.881Z - INFO - Marked email from kamihyn2005@gmail.com (UID: 12715) as read
+2025-05-03T06:05:44.199Z - INFO - Marked email from jennymaysha@gmx.de (UID: 12716) as read
+2025-05-03T06:05:59.668Z - INFO - Marked email from douzimo093@gmail.com (UID: 12717) as read
+2025-05-03T06:06:00.998Z - INFO - Marked email from s.inge@hotmail.de (UID: 12718) as read
+2025-05-03T06:06:02.944Z - INFO - Marked email from mohammadawad0909@gmail.com (UID: 12719) as read
+2025-05-03T06:06:04.743Z - INFO - Marked email from jaz.rabin@gmail.com (UID: 12720) as read
+2025-05-03T06:06:05.819Z - INFO - Marked email from nayletu@gmail.com (UID: 12721) as read
+2025-05-03T06:06:07.316Z - INFO - Marked email from driloismajli@icloud.com (UID: 12722) as read
+2025-05-03T06:06:08.781Z - INFO - Marked email from alexander.rn@icloud.com (UID: 12723) as read
+2025-05-03T06:06:10.423Z - INFO - Marked email from bertramsandy05@icloud.com (UID: 12724) as read
+2025-05-03T06:06:21.991Z - INFO - Marked email from hamudi.ay@icloud.com (UID: 12725) as read
+2025-05-03T06:06:24.347Z - INFO - Marked email from mailer@shopify.com (UID: 12726) as read
+2025-05-03T06:06:25.984Z - INFO - Marked email from beyzaa66bozkurt@outlook.de (UID: 12727) as read
+2025-05-03T06:06:28.032Z - INFO - Marked email from masary.toni004@gmail.com (UID: 12728) as read
+2025-05-03T06:06:30.490Z - INFO - Marked email from claudia.strey@gmx.de (UID: 12729) as read
+2025-05-03T06:06:32.726Z - INFO - Marked email from cangoergen@gmail.com (UID: 12730) as read
+2025-05-03T06:06:34.074Z - INFO - Marked email from muhammed.kumas38@icloud.com (UID: 12731) as read
+2025-05-03T06:06:35.611Z - INFO - Marked email from vivien.seibert2007@icloud.com (UID: 12732) as read
+2025-05-03T06:06:37.146Z - INFO - Marked email from ckartal1983@gmail.com (UID: 12733) as read
+2025-05-03T06:06:38.785Z - INFO - Marked email from edon.kamberi428@gmail.com (UID: 12734) as read
+2025-05-03T06:06:40.418Z - INFO - Marked email from mailer@shopify.com (UID: 12735) as read
+2025-05-03T06:06:41.959Z - INFO - Marked email from dilay190355@icloud.com (UID: 12736) as read
+2025-05-03T06:06:43.700Z - INFO - Marked email from jennifer@elibeny.ch (UID: 12737) as read
+2025-05-03T06:06:44.941Z - INFO - Marked email from noreply-de@klarna.de (UID: 12738) as read
+2025-05-03T06:06:46.405Z - INFO - Marked email from elasaglik06@icloud.com (UID: 12739) as read
+2025-05-03T06:06:48.045Z - INFO - Marked email from alexio0401@icloud.com (UID: 12740) as read
+2025-05-03T06:06:49.654Z - INFO - Marked email from mailer@shopify.com (UID: 12741) as read
+2025-05-03T06:06:51.459Z - INFO - Marked email from bence4267@gmail.com (UID: 12742) as read
+2025-05-03T06:06:53.120Z - INFO - Marked email from dilaramgre@icloud.com (UID: 12743) as read
+2025-05-03T06:06:54.964Z - INFO - Marked email from yaziciberna2@icloud.com (UID: 12744) as read
+2025-05-03T06:06:58.343Z - INFO - Marked email from peggyfr@hotmail.de (UID: 12745) as read
+2025-05-03T06:07:00.187Z - INFO - Marked email from mailer@shopify.com (UID: 12746) as read
+2025-05-03T06:07:01.991Z - INFO - Marked email from ibrahimi.medina01@gmail.com (UID: 12747) as read
+2025-05-03T06:07:04.284Z - INFO - Marked email from s.sariyalcin@gmx.de (UID: 12748) as read
+2025-05-03T06:07:06.740Z - INFO - Marked email from mailer@shopify.com (UID: 12749) as read
+2025-05-03T06:07:09.370Z - INFO - Marked email from abudehamoud@gmail.com (UID: 12750) as read
+2025-05-03T06:07:11.347Z - INFO - Marked email from www.julienmichiels27@gmail.com (UID: 12751) as read
+2025-05-03T06:07:12.884Z - INFO - Marked email from sabina.zeka@icloud.com (UID: 12752) as read
+2025-05-03T06:07:15.674Z - INFO - Marked email from mailer@shopify.com (UID: 12753) as read
+2025-05-03T06:07:15.675Z - INFO - Processed batch of 100 emails (total processed: 100)
+2025-05-03T06:07:18.210Z - INFO - Marked email from nisarpwnz4@gmail.com (UID: 12754) as read
+2025-05-03T06:07:25.243Z - INFO - Marked email from luciaromeo07@icloud.com (UID: 12755) as read
+2025-05-03T06:07:34.079Z - INFO - Marked email from davidsadikovic2018@gmail.com (UID: 12756) as read
+2025-05-03T06:07:35.582Z - INFO - Marked email from ritterarthur465@gmail.com (UID: 12757) as read
+2025-05-03T06:07:44.523Z - INFO - Marked email from noreply-de@klarna.de (UID: 12758) as read
+2025-05-03T06:07:49.030Z - INFO - Marked email from leann.wey@bluewin.ch (UID: 12759) as read
+2025-05-03T06:07:51.844Z - INFO - Marked email from maybee_2008@hotmail.com (UID: 12760) as read
+2025-05-03T06:07:53.962Z - INFO - Marked email from jdnmarkle@gmail.com (UID: 12761) as read
+2025-05-03T06:07:55.294Z - INFO - Marked email from michelle_puk@icloud.com (UID: 12762) as read
+2025-05-03T06:07:56.735Z - INFO - Marked email from mailer@shopify.com (UID: 12763) as read
+2025-05-03T06:07:58.247Z - INFO - Marked email from mailer@shopify.com (UID: 12764) as read
+2025-05-03T06:07:59.577Z - INFO - Marked email from haninlein@gmail.com (UID: 12765) as read
+2025-05-03T06:08:02.239Z - INFO - Marked email from dominik-krause@outlook.de (UID: 12766) as read
+2025-05-03T06:08:10.945Z - INFO - Marked email from mrs.kraft@aol.de (UID: 12767) as read
+2025-05-03T06:08:15.321Z - INFO - Marked email from mariamrudolph05@gmail.com (UID: 12768) as read
+2025-05-03T06:08:16.591Z - INFO - Marked email from rale.karadayi@web.de (UID: 12769) as read
+2025-05-03T06:08:19.341Z - INFO - Marked email from emirreisenhofer0@gmail.com (UID: 12770) as read
+2025-05-03T06:08:21.798Z - INFO - Marked email from maybee_2008@hotmail.com (UID: 12771) as read
+2025-05-03T06:08:23.098Z - INFO - Marked email from mituskinnikita0@gmail.com (UID: 12772) as read
+2025-05-03T06:08:27.350Z - INFO - Marked email from se_g0@icloud.com (UID: 12773) as read
+2025-05-03T06:08:28.845Z - INFO - Marked email from mailer@shopify.com (UID: 12774) as read
+2025-05-03T06:08:32.243Z - INFO - Marked email from edonisa2006kuqi@icloud.com (UID: 12775) as read
+2025-05-03T06:08:33.858Z - INFO - Marked email from anjaSieke@gmx.de (UID: 12776) as read
+2025-05-03T06:08:35.519Z - INFO - Marked email from kalmouamalak7@gmail.com (UID: 12777) as read
+2025-05-03T06:08:37.362Z - INFO - Marked email from efepolat111@gmail.com (UID: 12778) as read
+2025-05-03T06:08:38.899Z - INFO - Marked email from mailer@shopify.com (UID: 12779) as read
+2025-05-03T06:08:40.638Z - INFO - Marked email from akanu22.10@gmail.com (UID: 12780) as read
+2025-05-03T06:08:42.878Z - INFO - Marked email from bdimex.2015@gmail.com (UID: 12781) as read
+2025-05-03T06:08:44.839Z - INFO - Marked email from gebre99@web.de (UID: 12782) as read
+2025-05-03T06:08:47.911Z - INFO - Marked email from se_g0@icloud.com (UID: 12783) as read
+2025-05-03T06:08:49.884Z - INFO - Marked email from mailer@shopify.com (UID: 12784) as read
+2025-05-03T06:08:52.620Z - INFO - Marked email from luis.sommer23@gmail.com (UID: 12785) as read
+2025-05-03T06:08:55.689Z - INFO - Marked email from juliaerdmann68@gmail.com (UID: 12786) as read
+2025-05-03T06:08:58.355Z - INFO - Marked email from mailer@shopify.com (UID: 12787) as read
+2025-05-03T06:09:01.017Z - INFO - Marked email from hillihoelzer@web.de (UID: 12788) as read
+2025-05-03T06:09:02.758Z - INFO - Marked email from noreply-de@klarna.de (UID: 12789) as read
+2025-05-03T06:09:04.671Z - INFO - Marked email from vgm189@web.de (UID: 12790) as read
+2025-05-03T06:09:07.246Z - INFO - Marked email from KO-WO@web.de (UID: 12791) as read
+2025-05-03T06:09:09.991Z - INFO - Marked email from ilyasmedina@gmail.com (UID: 12792) as read
+2025-05-03T06:09:11.697Z - INFO - Marked email from mailer@shopify.com (UID: 12793) as read
+2025-05-03T06:09:13.413Z - INFO - Marked email from noreply-de@klarna.de (UID: 12794) as read
+2025-05-03T06:09:16.173Z - INFO - Marked email from murtezanramadani3269@gmail.com (UID: 12795) as read
+2025-05-03T06:09:18.117Z - INFO - Marked email from noreply-de@klarna.de (UID: 12796) as read
+2025-05-03T06:09:19.552Z - INFO - Marked email from M.Kopschuenske@web.de (UID: 12797) as read
+2025-05-03T06:09:21.628Z - INFO - Marked email from leonischoessler@web.de (UID: 12798) as read
+2025-05-03T06:09:22.931Z - INFO - Marked email from noreply-de@klarna.de (UID: 12799) as read
+2025-05-03T06:09:24.488Z - INFO - Marked email from ludwigivonne36@gmail.com (UID: 12800) as read
+2025-05-03T06:09:27.073Z - INFO - Marked email from noreply-at@klarna.at (UID: 12801) as read
+2025-05-03T06:09:33.989Z - INFO - Marked email from noreply-de@klarna.de (UID: 12802) as read
+2025-05-03T06:09:36.038Z - INFO - Marked email from ploppe@web.de (UID: 12803) as read
+2025-05-03T06:09:37.368Z - INFO - Marked email from gerb.sabrina@icloud.com (UID: 12804) as read
+2025-05-03T06:09:39.007Z - INFO - Marked email from raulnagy@icloud.com (UID: 12805) as read
+2025-05-03T06:09:43.097Z - INFO - Marked email from saidovramzan35@gmail.com (UID: 12806) as read
+2025-05-03T06:09:44.945Z - INFO - Marked email from Goekhan-Deli@hotmail.com (UID: 12807) as read
+2025-05-03T06:09:46.240Z - INFO - Marked email from muthanashanibari17@gmail.com (UID: 12808) as read
+2025-05-03T06:09:47.782Z - INFO - Marked email from juliaasiegwardt@icloud.com (UID: 12809) as read
+2025-05-03T06:09:49.144Z - INFO - Marked email from simaybairaktar@gmail.com (UID: 12810) as read
+2025-05-03T06:09:50.783Z - INFO - Marked email from julianadoyan@gmail.com (UID: 12811) as read
+2025-05-03T06:09:52.035Z - INFO - Marked email from vidovic_milena0502@icloud.com (UID: 12812) as read
+2025-05-03T06:09:53.445Z - INFO - Marked email from zehra.sartin@icloud.com (UID: 12813) as read
+2025-05-03T06:09:54.879Z - INFO - Marked email from noreply-de@klarna.de (UID: 12814) as read
+2025-05-03T06:09:56.723Z - INFO - Marked email from noreply-de@klarna.de (UID: 12815) as read
+2025-05-03T06:09:58.941Z - INFO - Marked email from noel191120004@icloud.com (UID: 12816) as read
+2025-05-03T06:10:01.228Z - INFO - Marked email from noreply-de@klarna.de (UID: 12817) as read
+2025-05-03T06:10:02.981Z - INFO - Marked email from fabiennethiems@icloud.com (UID: 12818) as read
+2025-05-03T06:10:04.710Z - INFO - Marked email from onderatav68@gmail.com (UID: 12819) as read
+2025-05-03T06:10:06.750Z - INFO - Marked email from daniel.p26cm@gmail.com (UID: 12820) as read
+2025-05-03T06:10:08.703Z - INFO - Marked email from tornadopaul05@gmail.com (UID: 12821) as read
+2025-05-03T06:10:11.058Z - INFO - Marked email from cevikmerve67@icloud.com (UID: 12822) as read
+2025-05-03T06:10:13.414Z - INFO - Marked email from cevikmerve67@icloud.com (UID: 12823) as read
+2025-05-03T06:10:15.358Z - INFO - Marked email from anetka2302@hotmail.de (UID: 12824) as read
+2025-05-03T06:10:17.611Z - INFO - Marked email from mailer@shopify.com (UID: 12825) as read
+2025-05-03T06:10:19.455Z - INFO - Marked email from cevikmerve67@icloud.com (UID: 12826) as read
+2025-05-03T06:10:21.913Z - INFO - Marked email from jeanineeckardt@googlemail.com (UID: 12827) as read
+2025-05-03T06:10:23.345Z - INFO - Marked email from hayriyeesmakurt@gmail.com (UID: 12828) as read
+2025-05-03T06:10:24.676Z - INFO - Marked email from cemretuanaoe@icloud.com (UID: 12829) as read
+2025-05-03T06:10:26.623Z - INFO - Marked email from n.schneider07@t-online.de (UID: 12830) as read
+2025-05-03T06:10:29.388Z - INFO - Marked email from acarserhat281@gmail.com (UID: 12831) as read
+2025-05-03T06:10:31.230Z - INFO - Marked email from mailer@shopify.com (UID: 12832) as read
+2025-05-03T06:10:33.381Z - INFO - Marked email from noreply-at@klarna.at (UID: 12833) as read
+2025-05-03T06:10:34.814Z - INFO - Marked email from ewkreusel@gmx.de (UID: 12834) as read
+2025-05-03T06:10:36.759Z - INFO - Marked email from yaqubwtd12@gmail.com (UID: 12835) as read
+2025-05-03T06:10:38.308Z - INFO - Marked email from matvejkxpps64@gmail.com (UID: 12836) as read
+2025-05-03T06:10:39.934Z - INFO - Marked email from donik.gashi@web.de (UID: 12837) as read
+2025-05-03T06:10:41.572Z - INFO - Marked email from noreply-de@klarna.de (UID: 12838) as read
+2025-05-03T06:10:43.313Z - INFO - Marked email from noreply-de@klarna.de (UID: 12839) as read
+2025-05-03T06:10:44.969Z - INFO - Marked email from laura.kollmann200312@gmail.com (UID: 12840) as read
+2025-05-03T06:10:46.525Z - INFO - Marked email from louisa.storck@gmx.de (UID: 12841) as read
+2025-05-03T06:10:48.913Z - INFO - Marked email from noreply-de@klarna.de (UID: 12842) as read
+2025-05-03T06:10:50.278Z - INFO - Marked email from liondamaliqi1@gmail.com (UID: 12843) as read
+2025-05-03T06:10:54.168Z - INFO - Marked email from noreply-de@klarna.de (UID: 12844) as read
+2025-05-03T06:11:02.667Z - INFO - Marked email from s_silvia@outlook.de (UID: 12845) as read
+2025-05-03T06:11:06.197Z - INFO - Marked email from alaahabobb22@icloud.com (UID: 12846) as read
+2025-05-03T06:11:08.193Z - INFO - Marked email from mervecoban6114@icloud.com (UID: 12847) as read
+2025-05-03T06:11:09.839Z - INFO - Marked email from c.sapok@arcor.de (UID: 12848) as read
+2025-05-03T06:11:11.268Z - INFO - Marked email from seref@online.de (UID: 12849) as read
+2025-05-03T06:11:14.545Z - INFO - Marked email from kiannbg@icloud.com (UID: 12850) as read
+2025-05-03T06:11:15.878Z - INFO - Marked email from Suzan-Tas@hotmail.de (UID: 12851) as read
+2025-05-03T06:11:17.899Z - INFO - Marked email from ehsanehsa48@gmail.com (UID: 12852) as read
+2025-05-03T06:11:19.768Z - INFO - Marked email from mailer@shopify.com (UID: 12853) as read
+2025-05-03T06:11:19.768Z - INFO - Processed batch of 100 emails (total processed: 200)
+2025-05-03T06:11:21.498Z - INFO - Marked email from lebaron666kt@gmail.com (UID: 12854) as read
+2025-05-03T06:11:22.943Z - INFO - Marked email from cvetkov.demian@icloud.com (UID: 12855) as read
+2025-05-03T06:11:24.814Z - INFO - Marked email from angelaneuhausen@gmail.com (UID: 12856) as read
+2025-05-03T06:11:26.834Z - INFO - Marked email from noreply-de@klarna.de (UID: 12857) as read
+2025-05-03T06:11:28.781Z - INFO - Marked email from nonobaker6@gmail.com (UID: 12858) as read
+2025-05-03T06:11:30.622Z - INFO - Marked email from weinmann0909@gmail.com (UID: 12859) as read
+2025-05-03T06:11:32.158Z - INFO - Marked email from nuriye98@hotmail.de (UID: 12860) as read
+2025-05-03T06:11:33.591Z - INFO - Marked email from abbasmavian6@gmail.com (UID: 12861) as read
+2025-05-03T06:11:36.151Z - INFO - Marked email from noreply-de@klarna.de (UID: 12862) as read
+2025-05-03T06:11:38.404Z - INFO - Marked email from mohammadawad0909@gmail.com (UID: 12863) as read
+2025-05-03T06:11:40.352Z - INFO - Marked email from dorisboscagli@yahoo.de (UID: 12864) as read
+2025-05-03T06:11:42.657Z - INFO - Marked email from julybesic27@icloud.com (UID: 12865) as read
+2025-05-03T06:11:45.028Z - INFO - Marked email from jonaslienesch19@gmail.com (UID: 12866) as read
+2025-05-03T06:11:47.591Z - INFO - Marked email from svenjahinz@web.de (UID: 12867) as read
+2025-05-03T06:11:49.771Z - INFO - Marked email from kristina.mandic1403@gmail.com (UID: 12868) as read
+2025-05-03T06:11:51.614Z - INFO - Marked email from noreply-de@klarna.de (UID: 12869) as read
+2025-05-03T06:11:53.233Z - INFO - Marked email from mailer@shopify.com (UID: 12870) as read
+2025-05-03T06:11:54.517Z - INFO - Marked email from mailer@shopify.com (UID: 12871) as read
+2025-05-03T06:11:56.275Z - INFO - Marked email from giadch2701@gmail.com (UID: 12872) as read
+2025-05-03T06:11:58.065Z - INFO - Marked email from dylanchristen@icloud.com (UID: 12873) as read
+2025-05-03T06:12:06.360Z - INFO - Marked email from hungaevdeni@gmail.com (UID: 12874) as read
+2025-05-03T06:12:21.719Z - INFO - Marked email from ginamanaj@icloud.com (UID: 12875) as read
+2025-05-03T06:12:38.770Z - INFO - Marked email from mailer@shopify.com (UID: 12876) as read
+2025-05-03T06:13:25.213Z - INFO - Marked email from noreply-de@klarna.de (UID: 12877) as read
+2025-05-03T06:13:38.367Z - INFO - Marked email from mailer@shopify.com (UID: 12878) as read
+2025-05-03T06:13:53.264Z - INFO - Marked email from filipeteixeira0202@gmail.com (UID: 12879) as read
+2025-05-03T06:14:02.896Z - INFO - Marked email from noreply-de@klarna.de (UID: 12880) as read
+2025-05-03T06:14:20.094Z - INFO - Marked email from nicowiszowaty@gmail.com (UID: 12881) as read
+2025-05-03T06:14:35.969Z - INFO - Marked email from vincentkreibich@web.de (UID: 12882) as read
+2025-05-03T06:14:46.717Z - INFO - Marked email from mailer@shopify.com (UID: 12883) as read
+2025-05-03T06:15:11.410Z - INFO - Marked email from Traebing_J@gmx.de (UID: 12884) as read
+2025-05-03T06:15:34.456Z - INFO - Marked email from mailer@shopify.com (UID: 12885) as read
+2025-05-03T06:15:50.355Z - INFO - Marked email from noreply-de@klarna.de (UID: 12886) as read
+2025-05-03T06:17:11.263Z - INFO - Marked email from melikeoezcan18@gmail.com (UID: 12887) as read
+2025-05-03T06:17:57.180Z - INFO - Marked email from sandra.wloczyk@web.de (UID: 12888) as read
+2025-05-03T06:18:09.262Z - INFO - Marked email from arcintoptepe8@gmail.com (UID: 12889) as read
+2025-05-03T06:19:01.506Z - INFO - Marked email from mailer@shopify.com (UID: 12890) as read
+2025-05-03T06:19:18.510Z - INFO - Marked email from amelieschutzenberger48@gmail.com (UID: 12891) as read
+2025-05-03T06:20:32.109Z - INFO - Marked email from amani.maher93@gmail.com (UID: 12892) as read
+2025-05-03T06:21:34.060Z - INFO - Marked email from amani.maher93@gmail.com (UID: 12893) as read
+2025-05-03T06:22:05.603Z - INFO - Marked email from mailer@shopify.com (UID: 12894) as read
+2025-05-03T06:22:24.338Z - INFO - Marked email from mailer@shopify.com (UID: 12895) as read
+2025-05-03T06:22:56.793Z - INFO - Marked email from janjochimde@gmail.com (UID: 12896) as read
+2025-05-03T06:23:08.269Z - INFO - Marked email from janjochimde@gmail.com (UID: 12897) as read
+2025-05-03T06:23:24.070Z - INFO - Marked email from vivien.seibert2007@icloud.com (UID: 12898) as read
+2025-05-03T06:23:37.385Z - INFO - Marked email from noreply-de@klarna.de (UID: 12899) as read
+2025-05-03T06:23:58.649Z - INFO - Marked email from learta.spahija22@icloud.com (UID: 12900) as read
+2025-05-03T06:24:46.572Z - INFO - Marked email from noreply-de@klarna.de (UID: 12901) as read
+2025-05-03T06:25:13.192Z - INFO - Marked email from hadiwehbi37@gmail.com (UID: 12902) as read
+2025-05-03T06:25:27.326Z - INFO - Marked email from nesa008@icloud.com (UID: 12903) as read
+2025-05-03T06:25:46.176Z - INFO - Marked email from musliualtina08@gmail.com (UID: 12904) as read
+2025-05-03T06:25:59.601Z - INFO - Marked email from kequichen@gmail.com (UID: 12905) as read
+2025-05-03T06:26:25.917Z - INFO - Marked email from can-emre-metin@hotmail.de (UID: 12906) as read
+2025-05-03T06:26:43.684Z - INFO - Marked email from 04sarablz@gmail.com (UID: 12907) as read
+2025-05-03T06:27:08.706Z - INFO - Marked email from leithnerhanna9@gmail.com (UID: 12908) as read
+2025-05-03T06:27:39.731Z - INFO - Marked email from moaidalleba@gmail.com (UID: 12909) as read
+2025-05-03T06:27:59.905Z - INFO - Marked email from e.oezb@gmx.de (UID: 12910) as read
+2025-05-03T06:28:26.541Z - INFO - Marked email from cinar2121m@gmail.com (UID: 12911) as read
+2025-05-03T06:28:47.824Z - INFO - Marked email from emily.stockmann@icloud.com (UID: 12912) as read
+2025-05-03T06:30:15.068Z - INFO - Marked email from holger.fuchs@gmx.org (UID: 12913) as read
+2025-05-03T06:30:45.723Z - INFO - Marked email from noreply-de@klarna.de (UID: 12914) as read
+2025-05-03T06:31:12.863Z - INFO - Marked email from noreply-de@klarna.de (UID: 12915) as read
+2025-05-03T06:31:21.938Z - INFO - Marked email from albinmustafi2006@gmail.com (UID: 12916) as read
+2025-05-03T06:31:42.721Z - INFO - Marked email from emetin1996@gmail.com (UID: 12917) as read
+2025-05-03T06:31:54.182Z - INFO - Marked email from emetin1996@gmail.com (UID: 12918) as read
+2025-05-03T06:32:07.960Z - INFO - Marked email from nargesnoori670@gmail.com (UID: 12919) as read
+2025-05-03T06:32:26.856Z - INFO - Marked email from loredanab32@gmail.com (UID: 12920) as read
+2025-05-03T06:32:41.395Z - INFO - Marked email from mailer@shopify.com (UID: 12921) as read
+2025-05-03T06:32:55.316Z - INFO - Marked email from mailer@shopify.com (UID: 12922) as read
+2025-05-03T06:33:10.246Z - INFO - Marked email from alisagajtani4@icloud.com (UID: 12923) as read
+2025-05-03T06:33:31.034Z - INFO - Marked email from jerrob07@icloud.com (UID: 12924) as read
+2025-05-03T06:33:46.248Z - INFO - Marked email from leonkowtonjuk3@gmail.com (UID: 12925) as read
+2025-05-03T06:34:10.709Z - INFO - Marked email from Tayo.J@gmx.de (UID: 12926) as read
+2025-05-03T06:34:22.668Z - INFO - Marked email from sekersila@yahoo.com (UID: 12927) as read
+2025-05-03T06:34:51.660Z - INFO - Marked email from geesasevik@icloud.com (UID: 12928) as read
+2025-05-03T06:35:58.933Z - INFO - Marked email from zehric27@icloud.com (UID: 12929) as read
+2025-05-03T06:36:14.153Z - INFO - Marked email from muhametb294@gmail.com (UID: 12930) as read
+2025-05-03T06:36:28.527Z - INFO - Marked email from cerinaaron6@gmail.com (UID: 12931) as read
+2025-05-03T06:36:47.366Z - INFO - Marked email from kerem.yilmaz6611@gmail.com (UID: 12932) as read
+2025-05-03T06:36:56.320Z - INFO - Marked email from dautovskialina34@gmail.com (UID: 12933) as read
+2025-05-03T06:37:27.602Z - INFO - Marked email from Mimountdira20@hotmail.com (UID: 12934) as read
+2025-05-03T06:37:48.824Z - INFO - Marked email from schengovhudi@gmail.com (UID: 12935) as read
+2025-05-03T06:37:57.092Z - INFO - Marked email from noreply-de@klarna.de (UID: 12936) as read
+2025-05-03T06:38:06.573Z - INFO - Marked email from azharharrabi17@gmail.com (UID: 12937) as read
+2025-05-03T06:38:18.085Z - INFO - Marked email from haiderkhudeida@gmail.com (UID: 12938) as read
+2025-05-03T06:38:29.556Z - INFO - Marked email from emmilina.84@gmx.de (UID: 12939) as read
+2025-05-03T06:38:42.054Z - INFO - Marked email from melissafriebus@icloud.com (UID: 12940) as read
+2025-05-03T06:39:16.529Z - INFO - Marked email from maria28rusu@icloud.com (UID: 12941) as read
+2025-05-03T06:40:31.219Z - INFO - Marked email from mailer@shopify.com (UID: 12942) as read
+2025-05-03T06:40:33.017Z - INFO - Marked email from bk_betul@hotmail.de (UID: 12943) as read
+2025-05-03T06:40:34.500Z - INFO - Marked email from beklennilda@gmail.com (UID: 12944) as read
+2025-05-03T06:40:35.912Z - INFO - Marked email from veselbajram49@gmail.com (UID: 12945) as read
+2025-05-03T06:40:37.019Z - INFO - Marked email from mailer@shopify.com (UID: 12946) as read
+2025-05-03T06:40:38.381Z - INFO - Marked email from dilaraates2@icloud.com (UID: 12947) as read
+2025-05-03T06:40:40.097Z - INFO - Marked email from dilaraates2@icloud.com (UID: 12948) as read
+2025-05-03T06:40:41.135Z - INFO - Marked email from dilaraates2@icloud.com (UID: 12949) as read
+2025-05-03T06:40:42.370Z - INFO - Marked email from dilaraates2@icloud.com (UID: 12950) as read
+2025-05-03T06:40:43.796Z - INFO - Marked email from dilaraates2@icloud.com (UID: 12951) as read
+2025-05-03T06:40:45.497Z - INFO - Marked email from noreply-at@klarna.at (UID: 12952) as read
+2025-05-03T06:40:46.921Z - INFO - Marked email from moritzsperling@gmx.de (UID: 12953) as read
+2025-05-03T06:40:46.921Z - INFO - Processed batch of 100 emails (total processed: 300)
+2025-05-03T06:40:50.125Z - INFO - Marked email from support@ionos.de (UID: 12954) as read
+2025-05-03T06:40:51.652Z - INFO - Marked email from noreply-at@klarna.at (UID: 12955) as read
+2025-05-03T06:40:53.067Z - INFO - Marked email from agnesa.cim@web.de (UID: 12956) as read
+2025-05-03T06:40:56.187Z - INFO - Marked email from dianalahdoke@gmail.com (UID: 12957) as read
+2025-05-03T06:40:57.553Z - INFO - Marked email from alyousifsabreen@gmail.com (UID: 12958) as read
+2025-05-03T06:40:59.289Z - INFO - Marked email from ardiana.midha@hotmail.com (UID: 12959) as read
+2025-05-03T06:41:00.425Z - INFO - Marked email from mailer@shopify.com (UID: 12960) as read
+2025-05-03T06:41:01.651Z - INFO - Marked email from mailer@shopify.com (UID: 12961) as read
+2025-05-03T06:41:02.843Z - INFO - Marked email from mevlan030@icloud.com (UID: 12962) as read
+2025-05-03T06:41:04.275Z - INFO - Marked email from mailer@shopify.com (UID: 12963) as read
+2025-05-03T06:41:05.493Z - INFO - Marked email from leylaayse26@gmail.com (UID: 12964) as read
+2025-05-03T06:41:06.617Z - INFO - Marked email from ayyoubali784@gmail.com (UID: 12965) as read
+2025-05-03T06:41:07.781Z - INFO - Marked email from gulhanim38@icloud.com (UID: 12966) as read
+2025-05-03T06:41:09.058Z - INFO - Marked email from cecilliamasamba4@gmail.com (UID: 12967) as read
+2025-05-03T06:41:10.522Z - INFO - Marked email from almirhalitaj9@gmail.com (UID: 12968) as read
+2025-05-03T06:41:11.723Z - INFO - Marked email from L.M.gossmann@outlook.de (UID: 12969) as read
+2025-05-03T06:41:13.044Z - INFO - Marked email from mailer@shopify.com (UID: 12970) as read
+2025-05-03T06:41:14.823Z - INFO - Marked email from mailer@shopify.com (UID: 12971) as read
+2025-05-03T06:41:16.360Z - INFO - Marked email from ilknurdemircan79@gmail.com (UID: 12972) as read
+2025-05-03T06:41:17.894Z - INFO - Marked email from noreply-de@klarna.de (UID: 12973) as read
+2025-05-03T06:41:19.205Z - INFO - Marked email from carogermann10@gmail.com (UID: 12974) as read
+2025-05-03T06:41:20.523Z - INFO - Marked email from mailer@shopify.com (UID: 12975) as read
+2025-05-03T06:41:21.825Z - INFO - Marked email from melisamem06@gmail.com (UID: 12976) as read
+2025-05-03T06:41:23.137Z - INFO - Marked email from pinarcaneer@gmail.com (UID: 12977) as read
+2025-05-03T06:41:24.291Z - INFO - Marked email from valentin.butz@icloud.com (UID: 12978) as read
+2025-05-03T06:41:25.357Z - INFO - Marked email from z_ylmz3855@icloud.com (UID: 12979) as read
+2025-05-03T06:41:26.585Z - INFO - Marked email from mailer@shopify.com (UID: 12980) as read
+2025-05-03T06:41:27.871Z - INFO - Marked email from ilaydaakdeniz04x@gmail.com (UID: 12981) as read
+2025-05-03T06:41:29.023Z - INFO - Marked email from asiel.samoudi@gmail.com (UID: 12982) as read
+2025-05-03T06:41:37.236Z - INFO - Marked email from tusha_harez@yahoo.de (UID: 12983) as read
+2025-05-03T06:41:38.997Z - INFO - Marked email from noreply-de@klarna.de (UID: 12984) as read
+2025-05-03T06:41:40.236Z - INFO - Marked email from hasanmavigoek@outlook.com (UID: 12985) as read
+2025-05-03T06:41:41.609Z - INFO - Marked email from jetmirsulejmanov@icloud.com (UID: 12986) as read
+2025-05-03T06:44:29.419Z - INFO - Marked email from nayaracastillofernandez1@gmail.com (UID: 12987) as read
+2025-05-03T06:44:31.274Z - INFO - Marked email from mailer@shopify.com (UID: 12988) as read
+2025-05-03T06:46:10.667Z - ERROR - Error: Timed out while connecting to server
