@@ -78,7 +78,6 @@ class EmailReader {
       const francModule = await import('franc');
       const franc = francModule.franc;
       const francAll = francModule.francAll;
-      
 
       // Strip quoted/forwarded content
       const quoteIndex = text.indexOf('>') !== -1 ? text.indexOf('>') : text.length;
@@ -149,7 +148,9 @@ class EmailReader {
         });
       });
 
-      for (const uid of results) {
+      // Process only the most recent email (highest UID)
+      if (results.length > 0) {
+        const uid = Math.max(...results); // Get the highest UID (most recent)
         const msg = await new Promise((resolve, reject) => {
           const f = this.imap.fetch(uid, { bodies: '' });
           f.on('message', (msg) => {
@@ -178,7 +179,7 @@ class EmailReader {
         const quoteIndex = body.indexOf('>') !== -1 ? body.indexOf('>') : body.length;
         const mainBody = body.substring(0, quoteIndex).trim();
 
-        emails.push({
+        const email = {
           messageId: uid,
           from: parsed.from.value[0].address,
           senderName,
@@ -187,13 +188,10 @@ class EmailReader {
           fullBody: body,
           date: emailDate,
           language
-        });
-      }
+        };
 
-      const recentEmail = emails.sort((a, b) => b.date - a.date)[0];
-      if (recentEmail) {
-        logger.info(`Selected most recent email from ${recentEmail.from} (Name: ${recentEmail.senderName}, Date: ${recentEmail.date.toISOString()}, UID: ${recentEmail.messageId}, Language: ${recentEmail.language})`);
-        return [recentEmail];
+        logger.info(`Selected email from ${email.from} (Name: ${email.senderName}, Date: ${email.date.toISOString()}, UID: ${email.messageId}, Language: ${email.language})`);
+        return [email];
       } else {
         logger.info('No unread emails found');
         return [];
