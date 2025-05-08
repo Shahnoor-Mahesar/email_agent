@@ -3,32 +3,30 @@ const { logger } = require('./config');
 
 class EmailSender {
   constructor(config) {
-    this.config = config;
     this.transporter = nodemailer.createTransport({
-      host: this.config.smtpServer,
-      port: this.config.smtpPort,
-      secure: false,
+      host: config.smtpServer,
+      port: config.smtpPort,
+      secure: config.smtpPort === 465,
       auth: {
-        user: this.config.emailAddress,
-        pass: this.config.emailPassword
-      },
-      tls: { ciphers: 'SSLv3' }
+        user: config.emailAddress,
+        pass: config.emailPassword
+      }
     });
   }
 
-  async sendReply(toAddress, subject, body) {
+  async sendReply(to, subject, reply) {
     try {
       const mailOptions = {
-        from: this.config.emailAddress,
-        to: toAddress,
+        from: this.transporter.options.auth.user,
+        to,
         subject: `Re: ${subject}`,
-        text: body
+        text: reply
       };
 
       await this.transporter.sendMail(mailOptions);
-      logger.info(`Sent reply to ${toAddress}`);
+      logger.info(`Sent reply to ${to} with subject: Re: ${subject}`);
     } catch (error) {
-      logger.error(`Error sending email: ${error.message}`);
+      logger.error(`Error sending reply to ${to}: ${error.message}`);
       throw error;
     }
   }
