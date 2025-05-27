@@ -19,7 +19,7 @@ class EmailSender {
       const mailOptions = {
         from: this.transporter.options.auth.user,
         to,
-        subject: `Re: ${subject}`,
+        subject: `${subject}`,
         text: reply
       };
 

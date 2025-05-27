@@ -49,7 +49,7 @@ class ReplyGenerator {
       }
 
       const response = await this.openai.chat.completions.create({
-        model: 'gpt-4o',
+        model: 'gpt-4o-mini',
         messages: [
           { role: 'system', content: `You are a polite and professional customer service assistant. Respond in ${isGerman ? 'German' : 'English'} and avoid including the email subject in the response body.` },
           { role: 'user', content: prompt }
